@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- ACTIVITY -->
+    <item name="activity_webview" type="id"/>
+    <item name="activity_progress" type="id"/>
+
+    <!-- NEST CONTROLLER -->
+    <item name="nest_home_button" type="id"/>
+    <item name="nest_title" type="id"/>
+    <item name="nest_logout_button" type="id"/>
+    <item name="nest_state" type="id" />
+
+</resources>

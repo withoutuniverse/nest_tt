@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nest Demo</string>
+
+    <!-- STRUCTURE -->
+    <string name="structure_logout">Logout</string>
+
+    <!-- SMOKE AND CO ALARMS -->
+    <string name="smoke_co_alarms_state">%1$s\nCO Alarm State: %2$s \nSmoke Alarm State: %3$s \nBattery Health: %4$s</string>
+    <string name="alarm_state_ok">OK</string>
+    <string name="alarm_state_warning">Warning</string>
+    <string name="alarm_state_emergency">Emergency</string>
+    <string name="battery_state_ok">OK</string>
+    <string name="battery_state_replace">Replace</string>
+    <string name="test_in_progress">Test in Progress…</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- GLOBAL -->
+    <dimen name="circle_size">160dp</dimen>
+    <dimen name="title_margin_top">100dp</dimen>
+    <dimen name="home_view_state_stroke_width">3dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="parallax_header_speed">40dp</dimen>
+    <dimen name="header_height">60dp</dimen>
+</resources>

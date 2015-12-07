@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="primary">#2B3243</color>
+    <color name="primaryDark">#111A2F</color>
+    <color name="accent">@color/green</color>
+    <color name="text">#ffffff</color>
+    <color name="title">#6D7482</color>
+
+    <color name="green">#65DA1F</color>
+    <color name="red">#E53C00</color>
+    <color name="yellow">#FFCA00</color>
+    <color name="blue">#39DAFF</color>
+    <color name="bg_progress">#66000000</color>
+
+    <color name="transparent_home_view_bg">#99111A2F</color>
+
+</resources>
